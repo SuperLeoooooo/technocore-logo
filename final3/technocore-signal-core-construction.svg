@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1400 1000" width="1400" height="1000">
+  <rect width="1400" height="1000" fill="#0A1128"/>
+  <line x1="100.0" y1="150" x2="100.0" y2="850" stroke="#5C6670" stroke-width="0.6" opacity="0.28"/><line x1="100" y1="150.0" x2="800" y2="150.0" stroke="#5C6670" stroke-width="0.6" opacity="0.28"/><line x1="187.5" y1="150" x2="187.5" y2="850" stroke="#5C6670" stroke-width="0.6" opacity="0.28"/><line x1="100" y1="237.5" x2="800" y2="237.5" stroke="#5C6670" stroke-width="0.6" opacity="0.28"/><line x1="275.0" y1="150" x2="275.0" y2="850" stroke="#5C6670" stroke-width="0.6" opacity="0.28"/><line x1="100" y1="325.0" x2="800" y2="325.0" stroke="#5C6670" stroke-width="0.6" opacity="0.28"/><line x1="362.5" y1="150" x2="362.5" y2="850" stroke="#5C6670" stroke-width="0.6" opacity="0.28"/><line x1="100" y1="412.5" x2="800" y2="412.5" stroke="#5C6670" stroke-width="0.6" opacity="0.28"/><line x1="450.0" y1="150" x2="450.0" y2="850" stroke="#5C6670" stroke-width="0.6" opacity="0.28"/><line x1="100" y1="500.0" x2="800" y2="500.0" stroke="#5C6670" stroke-width="0.6" opacity="0.28"/><line x1="537.5" y1="150" x2="537.5" y2="850" stroke="#5C6670" stroke-width="0.6" opacity="0.28"/><line x1="100" y1="587.5" x2="800" y2="587.5" stroke="#5C6670" stroke-width="0.6" opacity="0.28"/><line x1="625.0" y1="150" x2="625.0" y2="850" stroke="#5C6670" stroke-width="0.6" opacity="0.28"/><line x1="100" y1="675.0" x2="800" y2="675.0" stroke="#5C6670" stroke-width="0.6" opacity="0.28"/><line x1="712.5" y1="150" x2="712.5" y2="850" stroke="#5C6670" stroke-width="0.6" opacity="0.28"/><line x1="100" y1="762.5" x2="800" y2="762.5" stroke="#5C6670" stroke-width="0.6" opacity="0.28"/><line x1="800.0" y1="150" x2="800.0" y2="850" stroke="#5C6670" stroke-width="0.6" opacity="0.28"/><line x1="100" y1="850.0" x2="800" y2="850.0" stroke="#5C6670" stroke-width="0.6" opacity="0.28"/>
+  <polygon points="328.5,283.0 571.5,283.0 667.0,378.5 667.0,621.5 571.5,717.0 328.5,717.0 233.0,621.5 233.0,378.5" fill="#F5F7FA"/>
+  <polygon points="402.4,381.0 497.6,381.0 569.0,452.4 569.0,547.6 497.6,619.0 402.4,619.0 331.0,547.6 331.0,452.4" fill="#0A1128"/>
+  <polygon points="279.1,313.1 319.9,313.1 335.9,329.1 335.9,369.9 319.9,385.9 279.1,385.9 263.1,369.9 263.1,329.1" fill="#00B4D8"/>
+  <g font-family="'Space Mono', monospace" fill="#F5F7FA" font-size="24">
+    <text x="100" y="80" font-size="34" fill="#00B4D8">SIGNAL CORE</text>
+    <text x="100" y="115" opacity="0.6">construction sheet · unit = canvas/100</text>
+    <text x="880" y="180">base  62u</text>
+    <text x="880" y="215">chamfer  13.6u</text>
+    <text x="880" y="250">aperture  34u</text>
+    <text x="880" y="285">core  10.4u</text>
+    <text x="880" y="320">core pos  (28.5, 28.5)</text>
+    <text x="880" y="355">angle  45&#176;</text>
+    <text x="880" cy="0" y="425" opacity="0.75">1 accent only</text>
+    <text x="880" y="460" opacity="0.75">structure = #F5F7FA</text>
+    <text x="880" y="495" opacity="0.75">accent   = #00B4D8</text>
+    <text x="880" y="530" opacity="0.75">field    = #0A1128</text>
+  </g>
+</svg>
