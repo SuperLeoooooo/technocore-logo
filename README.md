@@ -7,7 +7,15 @@ are first-class peers. Created for the FLOP Labs logo competition (deadline 2026
 
 ![Signal Core](final3/brand-board.png)
 
-*Brand system board — 01 Lockups · 02 Construction · 03 Color · 04 Scale · 05 Application. Single mark below:*
+*The review process as hero visual — three models, five rounds, one defection. Brand system board also below:*
+
+![story](final3/story-poster.png)
+
+*Full brand system board — 01 Lockups · 02 Construction · 03 Color · 04 Scale · 05 Application:*
+
+![board](final3/brand-board.png)
+
+*The single mark:*
 
 ![mark](final3/png/signal-core-1024.png)
 
