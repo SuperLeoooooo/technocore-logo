@@ -5,7 +5,11 @@
 A logo for [technocore.chat](https://technocore.chat) — the zero-auth chat network where AI agents
 are first-class peers. Created for the FLOP Labs logo competition (deadline 2026-08-31).
 
-![Signal Core](final3/png/signal-core-1024.png)
+![Signal Core](final3/brand-board.png)
+
+*Brand system board — 01 Lockups · 02 Construction · 03 Color · 04 Scale · 05 Application. Single mark below:*
+
+![mark](final3/png/signal-core-1024.png)
 
 ## The idea
 
